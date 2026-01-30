@@ -1,0 +1,48 @@
+.inputInvitation {
+    width: 30%;
+    padding: 5px;
+    border-bottom: 2px solid;
+    background-color: transparent;
+    border-top: none;
+    border-left: none;
+    border-right: none
+}
+
+.invitationContainer {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    background-color: #f0e5da;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.submitButton {
+    width: 25%;
+    color: white;
+    background-color: black;
+    height: 40px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+.restrictiiAlimentare {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+
+.welcomePageContainer {
+    height: 100vh;
+    background-color: #F5F5DC;
+    display: flex;
+    justify-content: center;
+    font-family: 'Cormorant Garamond';
+    // @media (max-width: 768px) {
+    //     height: 84vh;
+    // }
+}
