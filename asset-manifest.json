@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/css/main.42b68a1e.css",
-    "main.js": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/js/main.e3ce57b8.js",
-    "static/js/453.670e15c7.chunk.js": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/js/453.670e15c7.chunk.js",
-    "static/media/wedding_2.jpg": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/media/wedding_2.4301bdb18a9f11829299.jpg",
-    "index.html": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/index.html",
-    "main.42b68a1e.css.map": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/css/main.42b68a1e.css.map",
-    "main.e3ce57b8.js.map": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/js/main.e3ce57b8.js.map",
-    "453.670e15c7.chunk.js.map": "/%20//github.com/AlexandrinaS/Alexandrina_Ion/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/AlexandrinaS/Alexandrina_Ion/static/css/main.42b68a1e.css",
+    "main.js": "/AlexandrinaS/Alexandrina_Ion/static/js/main.621ef6f2.js",
+    "static/js/453.670e15c7.chunk.js": "/AlexandrinaS/Alexandrina_Ion/static/js/453.670e15c7.chunk.js",
+    "static/media/wedding_2.jpg": "/AlexandrinaS/Alexandrina_Ion/static/media/wedding_2.4301bdb18a9f11829299.jpg",
+    "index.html": "/AlexandrinaS/Alexandrina_Ion/index.html",
+    "main.42b68a1e.css.map": "/AlexandrinaS/Alexandrina_Ion/static/css/main.42b68a1e.css.map",
+    "main.621ef6f2.js.map": "/AlexandrinaS/Alexandrina_Ion/static/js/main.621ef6f2.js.map",
+    "453.670e15c7.chunk.js.map": "/AlexandrinaS/Alexandrina_Ion/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42b68a1e.css",
-    "static/js/main.e3ce57b8.js"
+    "static/js/main.621ef6f2.js"
   ]
 }
