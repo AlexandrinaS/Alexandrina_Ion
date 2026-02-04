@@ -19,7 +19,16 @@ const WelcomePage = () => {
                 <div style={{
                     top: 0, left: 0, fontSize: '55px'
                 }}>
-                    <p style={{ margin: 0 }}>Ion & Alexandrina</p>
+                    <span>
+                        Ion
+                        </span>
+                        <br />
+                        <span>
+                        &
+                        </span>
+                        <br />
+                        <span>
+                            Alexandrina </span>
                 </div>
                 <span style={{ fontSize: '30px' }}>10-mai-2026</span>
             </div>

@@ -35,10 +35,7 @@ export const Countdown = ({ targetDate }) => {
 
     return (
         <div style={{ backgroundColor: "rgb(250, 250, 240)", padding: '20px', textAlign: 'center' }}>
-            <div style={{ fontSize: '22px', marginBottom: '20px' }}>
-                Nu putem să ne bucurăm fără voi! Haideți să facem împreună o zi de neuitat!
-            </div>
-
+        
             <div>
                 {!finished && <span style={{ fontSize: '22px' }}>Ne vedem în:</span>}
 
