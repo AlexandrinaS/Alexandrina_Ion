@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AlexandrinaS/Alexandrina_Ion/static/css/main.42b68a1e.css",
-    "main.js": "/AlexandrinaS/Alexandrina_Ion/static/js/main.6bbb7cc8.js",
-    "static/js/453.670e15c7.chunk.js": "/AlexandrinaS/Alexandrina_Ion/static/js/453.670e15c7.chunk.js",
-    "static/media/wedding_2.jpg": "/AlexandrinaS/Alexandrina_Ion/static/media/wedding_2.4301bdb18a9f11829299.jpg",
-    "index.html": "/AlexandrinaS/Alexandrina_Ion/index.html",
-    "main.42b68a1e.css.map": "/AlexandrinaS/Alexandrina_Ion/static/css/main.42b68a1e.css.map",
-    "main.6bbb7cc8.js.map": "/AlexandrinaS/Alexandrina_Ion/static/js/main.6bbb7cc8.js.map",
-    "453.670e15c7.chunk.js.map": "/AlexandrinaS/Alexandrina_Ion/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/Alexandrina_Ion/static/css/main.42b68a1e.css",
+    "main.js": "/Alexandrina_Ion/static/js/main.a3a9609a.js",
+    "static/js/453.e7fb94ec.chunk.js": "/Alexandrina_Ion/static/js/453.e7fb94ec.chunk.js",
+    "static/media/wedding_2.jpg": "/Alexandrina_Ion/static/media/wedding_2.4301bdb18a9f11829299.jpg",
+    "index.html": "/Alexandrina_Ion/index.html",
+    "main.42b68a1e.css.map": "/Alexandrina_Ion/static/css/main.42b68a1e.css.map",
+    "main.a3a9609a.js.map": "/Alexandrina_Ion/static/js/main.a3a9609a.js.map",
+    "453.e7fb94ec.chunk.js.map": "/Alexandrina_Ion/static/js/453.e7fb94ec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42b68a1e.css",
-    "static/js/main.6bbb7cc8.js"
+    "static/js/main.a3a9609a.js"
   ]
 }
