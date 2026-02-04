@@ -27,8 +27,7 @@ const WelcomePage = () => {
                         &
                         </span>
                         <br />
-                        <span>
-                            Alexandrina </span>
+                        <span> Alexandrina </span>
                 </div>
                 <span style={{ fontSize: '30px' }}>10-mai-2026</span>
             </div>
