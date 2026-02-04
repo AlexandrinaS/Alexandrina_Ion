@@ -8,8 +8,8 @@ const Location = () => {
     return (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', backgroundColor: "rgb(236, 236, 216)", paddingTop: "20px" }}>
             <span style={{ fontFamily: 'Cormorant Garamond', fontSize: '22px', paddingLeft: '5px', paddingRight: '5px' }}>
-                Vă invităm să ne fiți alături, să râdem, să dansăm și să ne bucurăm împreună! Ziua va fi cu adevărat specială doar dacă sunteți și voi alături de noi.               </span>
-
+Vă invităm să fiți alături de noi la petrecerea de celebrare a căsătoriei noastre, pentru a ne bucura împreună de acest moment special.
+</span>
             <div style={{ fontFamily: 'Cormorant Garamond', fontSize: '22px', display: 'flex', flexDirection: 'column', fontWeight: 500 }}>
                 <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '5px' }}> <MdDateRange /> <span>Data: 10 mai 2026 </span> </div>
                 <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '5px' }}> <IoMdTime /> <span>Ora: 16:00</span> </div>
