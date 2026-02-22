@@ -34,7 +34,12 @@ export const Countdown = ({ targetDate }) => {
     ];
 
     return (
-        <div style={{ backgroundColor: "rgb(250, 250, 240)", padding: '20px', textAlign: 'center' }}>
+        <>
+        <div style={{padding: '0 8px'}}>
+            <h2 style={{marginBottom: "-12px", fontSize: '17px'}}>Detaliu important:</h2>
+            <p>Dacă vremea ne va permite, vom sărbători în aer liber. Serile de mai pot fi răcoroase, așa că vă recomandăm să luați o jachetă sau o păturică.</p>
+        </div>
+        <div style={{padding: '10px', textAlign: 'center' }}>
         
             <div>
                 {!finished && <span style={{ fontSize: '22px' }}>Ne vedem în:</span>}
@@ -53,6 +58,8 @@ export const Countdown = ({ targetDate }) => {
                 }
             </div>
         </div>
+        
+        </>
     );
 };
 

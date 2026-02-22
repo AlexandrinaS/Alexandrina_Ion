@@ -5,7 +5,7 @@ import { IoMdTime } from "react-icons/io";
 
 const Location = () => {
     return (
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', backgroundColor: "rgb(236, 236, 216)", paddingTop: "20px" }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', paddingTop: "20px" }}>
             
             {/* Text invitație */}
             <span style={{ fontFamily: 'Cormorant Garamond', fontSize: '22px', paddingLeft: '5px', paddingRight: '5px' }}>

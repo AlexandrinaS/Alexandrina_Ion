@@ -7,7 +7,7 @@ import Countdown from './components/Timer';
 const App = () => {
     return (<div className="App" style={{ fontFamily: 'Cormorant Garamond' }}>
         <WelcomePage />
-        < Location />
+        <Location />
         <Countdown targetDate="2026-05-10T16:00:00" />
 
     </div>
